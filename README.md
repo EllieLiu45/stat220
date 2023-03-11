@@ -8,6 +8,6 @@ The first mission is make a meme by R  and show it with a markdown file on Githu
 I garduated from St' Margarets college in Christchurch 2021. Now I'm studying Science at UoA.
 
 ### Hobbies :smirk:
-- swimming :swimming:
-- reading :book:
-- watching movies :movies:
+- swimming 🏊:
+- reading 📚:
+- watching movies 🎥:
