@@ -2,7 +2,7 @@
 ## This is a sample introduction to myself
 
 ### First Mission :smile:
-The first mission is make a meme by R  and show it with a markdown file on Github. 
+The first mission is make a meme by R  and show it with a markdown file on [Github](https://github.com/EllieLiu45/stat220). 
 
 ### About me :wink:
 I garduated from St' Margarets college in Christchurch 2021. Now I'm studying Science at UoA.
