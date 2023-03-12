@@ -13,4 +13,4 @@ I garduated from St' Margarets college in Christchurch 2021. Now I'm studying Sc
 - watching movies 🎥:
 - listenning to music musical_note:  This [song](https://youtu.be/pbSji_3prUc) called 'Miss You 3000, which is the official music of my favorite TV play.
 
-*_Keep on going Never give up_*
+**_Keep on going Never give up_**
